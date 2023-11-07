@@ -1,0 +1,15 @@
+# ninja log v5
+0	387	7181513427969678	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+389	503	7181513429105839	bai1.exe	caffe7dfb983f6a5
+3	374	7181513974665674	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+375	454	7181513975433628	bai1.exe	caffe7dfb983f6a5
+2	387	7181514140747230	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+388	470	7181514141558310	bai1.exe	caffe7dfb983f6a5
+4	460	7181517834333277	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+461	676	7181517836434180	bai1.exe	caffe7dfb983f6a5
+3	402	7181518916431249	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+402	480	7181518917196433	bai1.exe	caffe7dfb983f6a5
+3	1174	7181530478691957	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+1175	1365	7181530480561500	bai1.exe	caffe7dfb983f6a5
+3	378	7181530977055624	CMakeFiles/bai1.dir/main.cpp.obj	fa8ac20ca9eaa4a2
+378	457	7181530977830176	bai1.exe	caffe7dfb983f6a5

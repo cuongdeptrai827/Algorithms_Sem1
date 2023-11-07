@@ -1,0 +1,34 @@
+"C:\Users\Mini Pc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Coding\Môn Algorithms\Kì 1\Code mẫu\test" -B "C:\Coding\Môn Algorithms\Kì 1\Code mẫu\test\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+CMake Error:
+  Running
+
+   'C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe' '-C' 'C:/Coding/Môn Algorithms/Kì 1/Code mẫu/test/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2q9qw8' '-t' 'recompact'
+
+  failed with:
+
+   ninja: fatal: chdir to 'C:/Coding/M⌠n Algorithms/K∞ 1/Code m?u/test/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2q9qw8' - Invalid argument
+
+
+
+CMake Error:
+  Running
+
+   'C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe' '-C' 'C:/Coding/Môn Algorithms/Kì 1/Code mẫu/test/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2q9qw8' '-t' 'restat' 'build.ninja'
+
+  failed with:
+
+   ninja: fatal: chdir to 'C:/Coding/M⌠n Algorithms/K∞ 1/Code m?u/test/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-2q9qw8' - Invalid argument
+
+
+
+CMake Error at C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!

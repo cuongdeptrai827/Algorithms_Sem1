@@ -1,0 +1,3 @@
+"C:\Users\Mini Pc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\baitap9_.dir/objects.a
+C:\Users\MINIPC~1\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\baitap9_.dir/objects.a @CMakeFiles\baitap9_.dir\objects1.rsp
+C:\Users\MINIPC~1\AppData\Local\Programs\CLion\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\baitap9_.dir/objects.a -Wl,--no-whole-archive -o baitap9_.exe -Wl,--out-implib,libbaitap9_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\baitap9_.dir\linkLibs.rsp

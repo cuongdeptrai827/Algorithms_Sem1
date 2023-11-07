@@ -1,0 +1,3 @@
+C:/Coding/Môn Algorithms/Kì 1/Lab 1/bai4/cmake-build-debug/CMakeFiles/bai4.dir
+C:/Coding/Môn Algorithms/Kì 1/Lab 1/bai4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/Môn Algorithms/Kì 1/Lab 1/bai4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

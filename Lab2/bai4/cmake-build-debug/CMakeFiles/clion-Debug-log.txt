@@ -1,0 +1,4 @@
+"C:\Users\Mini Pc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Coding\Môn Algorithms\Kì 1\lab2\bai4" -B "C:\Coding\Môn Algorithms\Kì 1\lab2\bai4\cmake-build-debug"
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Coding/Môn Algorithms/Kì 1/Lab2/bai4/cmake-build-debug
