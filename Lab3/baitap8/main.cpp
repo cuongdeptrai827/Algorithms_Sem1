@@ -56,7 +56,7 @@ long long MaxRectangleArea(int h[], int n) {
         while (!stack.isEmpty() && h[i] < h[stack.peek()]) {
             int height = h[stack.peek()];
             stack.pop();
-            int width = stack.isEmpty() ? i : i - stack.peek() - 1;
+            int width = stack.isEmpty() ? i : i  - stack.peek() - 1;
             MaxArea = max(MaxArea, static_cast<long long>(height) * width);
         }
         stack.push(i);

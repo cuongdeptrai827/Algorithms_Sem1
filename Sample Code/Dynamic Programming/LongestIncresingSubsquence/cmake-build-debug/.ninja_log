@@ -1,0 +1,15 @@
+# ninja log v5
+0	1821	7239331981768262	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1824	1944	7239331982955076	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+4	1813	7239334164634779	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1813	1903	7239334165522402	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+4	1672	7239334259564701	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1673	1761	7239334260422353	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+3	1675	7239335302383819	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1676	1765	7239335303261471	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+3	1726	7239335448719665	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1726	1811	7239335449557705	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+3	1701	7239335591188343	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1701	1787	7239335592036361	LongestIncresingSubsquence.exe	dbd4f4f897e53e57
+3	1727	7239336040656686	CMakeFiles/LongestIncresingSubsquence.dir/main.cpp.obj	24344380a12c7c05
+1727	1812	7239336041494437	LongestIncresingSubsquence.exe	dbd4f4f897e53e57

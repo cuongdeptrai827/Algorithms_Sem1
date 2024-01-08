@@ -1,4 +1,4 @@
-# Install script for directory: C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap6
+# Install script for directory: C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap6
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap6/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,3 +1,3 @@
-C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap7/cmake-build-debug/CMakeFiles/baitap7.dir
-C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap7/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap7/cmake-build-debug/CMakeFiles/baitap7.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

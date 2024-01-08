@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/main.cpp" "CMakeFiles/baitap9_.dir/main.cpp.obj" "gcc" "CMakeFiles/baitap9_.dir/main.cpp.obj.d"
+  "C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/main.cpp" "CMakeFiles/baitap9_.dir/main.cpp.obj" "gcc" "CMakeFiles/baitap9_.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

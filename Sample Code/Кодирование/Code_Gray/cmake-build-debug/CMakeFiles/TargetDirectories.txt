@@ -1,0 +1,3 @@
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Sample Code/Кодирование/Code_Gray/cmake-build-debug/CMakeFiles/Code_Gray_.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Sample Code/Кодирование/Code_Gray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Sample Code/Кодирование/Code_Gray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

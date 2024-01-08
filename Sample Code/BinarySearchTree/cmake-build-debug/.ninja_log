@@ -1,0 +1,17 @@
+# ninja log v5
+0	590	7228724975279253	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+592	741	7228724976785203	BinarySearchTree.exe	25b89afd59c20125
+3	474	7228898366639688	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+474	575	7228898367607103	BinarySearchTree.exe	25b89afd59c20125
+2	474	7228898654135760	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+475	561	7228898654973523	BinarySearchTree.exe	25b89afd59c20125
+2	454	7228898801973187	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+455	541	7228898802820928	BinarySearchTree.exe	25b89afd59c20125
+3	446	7228900179900541	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+447	533	7228900180758250	BinarySearchTree.exe	25b89afd59c20125
+2	438	7228901197841367	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+439	521	7228901198649195	BinarySearchTree.exe	25b89afd59c20125
+3	467	7228907842780521	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+468	560	7228907843668449	BinarySearchTree.exe	25b89afd59c20125
+2	501	7228908674535491	CMakeFiles/BinarySearchTree.dir/main.cpp.obj	91123f9e4d75898f
+502	605	7228908675522844	BinarySearchTree.exe	25b89afd59c20125

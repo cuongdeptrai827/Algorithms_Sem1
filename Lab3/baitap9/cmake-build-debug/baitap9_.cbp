@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug"/>
+				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="baitap9_">
-				<Option output="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/baitap9_.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug"/>
+				<Option output="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/baitap9_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 baitap9_"/>
-					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 baitap9_"/>
+					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="baitap9_/fast">
-				<Option output="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/baitap9_.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug"/>
+				<Option output="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/baitap9_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,37 +55,37 @@
 					<Add directory="C:/Users/Mini Pc/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 baitap9_/fast"/>
-					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 baitap9_/fast"/>
+					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug"/>
+				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug"/>
+				<Option working_dir="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/MINIPC~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/main.cpp">
+		<Unit filename="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/main.cpp">
 			<Option target="baitap9_"/>
 		</Unit>
-		<Unit filename="C:/Coding/Môn Algorithms/Kì 1/Lab3/baitap9/CMakeLists.txt">
+		<Unit filename="C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab3/baitap9/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

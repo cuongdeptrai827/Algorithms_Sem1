@@ -1,0 +1,3 @@
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab5/baptap1/cmake-build-debug/CMakeFiles/baptap1.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab5/baptap1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Lab5/baptap1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

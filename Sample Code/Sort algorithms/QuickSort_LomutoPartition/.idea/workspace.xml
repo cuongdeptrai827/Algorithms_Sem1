@@ -9,7 +9,38 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38f6ef6e-ef4b-4c8b-a6ac-a1321ad15c77" name="Changes" comment="" />
+    <list default="true" id="38f6ef6e-ef4b-4c8b-a6ac-a1321ad15c77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/.idea/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/baitap2/.idea/baitap2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/baitap3/.idea/baitap3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/baitap6/.idea/baitap6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/baitap7/.idea/baitap7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Lab4/baitap8/.idea/baitap8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-13b6db95ae739afb4f37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-afcd4e83a4df72d6d276.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d2566ab623699a8e4716.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-21T19-11-14-0604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/baitap1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/baitap1.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/baitap1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/baitap1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab3/baitap1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lab3/baitap1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quick Sort _ Hoare Partition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quick Sort _ Hoare Partition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +49,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2WTZAmNOwtuIWEP0JWppkxm1WBI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +69,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Coding/Môn Algorithms/Kì 1/Algorithms_Sem1/Sample Code/Sort algorithms/QuickSort_LomutoPartition",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696758390350</updated>
       <workItem from="1696758392067" duration="1315000" />
+      <workItem from="1700238255112" duration="927000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,3 @@
+"C:\Users\Mini Pc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Code_Gray_.dir/objects.a
+C:\Users\MINIPC~1\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\Code_Gray_.dir/objects.a @CMakeFiles\Code_Gray_.dir\objects1.rsp
+C:\Users\MINIPC~1\AppData\Local\Programs\CLion\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Code_Gray_.dir/objects.a -Wl,--no-whole-archive -o Code_Gray_.exe -Wl,--out-implib,libCode_Gray_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Code_Gray_.dir\linkLibs.rsp
